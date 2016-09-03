@@ -1,0 +1,5 @@
+B:\Users\Nahom\Documents\SharpDevelop Projects\SSS\SSS\bin\Debug\SSS.exe
+B:\Users\Nahom\Documents\SharpDevelop Projects\SSS\SSS\bin\Debug\SSS.pdb
+B:\Users\Nahom\Documents\SharpDevelop Projects\SSS\SSS\obj\Debug\SSS.csprojResolveAssemblyReference.cache
+B:\Users\Nahom\Documents\SharpDevelop Projects\SSS\SSS\obj\Debug\SSS.exe
+B:\Users\Nahom\Documents\SharpDevelop Projects\SSS\SSS\obj\Debug\SSS.pdb
