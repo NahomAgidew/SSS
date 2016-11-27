@@ -3,7 +3,6 @@
  * Date: 6/27/2016
  * Time: 7:31 PM
  * 
- * To change this template use Tools | Options | Coding | Edit Standard Headers.
  */
 using System.IO;
 using System.Text;
